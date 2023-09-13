@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BossFight", "BossFight\BossFight.csproj", "{2FF9DE2B-CE20-48A2-A5E2-B0EF5A39DEC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FF9DE2B-CE20-48A2-A5E2-B0EF5A39DEC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FF9DE2B-CE20-48A2-A5E2-B0EF5A39DEC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FF9DE2B-CE20-48A2-A5E2-B0EF5A39DEC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FF9DE2B-CE20-48A2-A5E2-B0EF5A39DEC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2685DB36-91F8-4628-AAFC-59741E05FE81}
+	EndGlobalSection
+EndGlobal
